@@ -597,9 +597,9 @@ For EACH program, finalize:
 **Strategic rest day** - No heavy studying
 
 **Morning**:
-- [ ] Light clinical review (30 minutes - high-level only)
-- [ ] Casual rehearsal of 2-3 favorite stories
-- [ ] Review "why this program" for each interview
+- [ ] Light review of your narratives (30 minutes - just reading, no rehearsing)
+- [ ] Casual rehearsal of 2-3 favorite stories with friend/family
+- [ ] Review "why this program" for each interview (quick skim)
 
 **Afternoon**:
 - [ ] Visualization exercise: Successful interview (15 minutes)
@@ -620,7 +620,7 @@ For EACH program, finalize:
 
 **Morning (90 minutes): Light Review Only**
 
-- [ ] Quick flip through clinical case notes (NO deep studying)
+- [ ] Quick flip through your narrative notes (NO deep studying)
 - [ ] Review key themes from personal statement
 - [ ] Skim program-specific notes
 - [ ] Review questions to ask each program
@@ -823,14 +823,15 @@ For EACH project:
 
 ---
 
-## ⚖️ ETHICAL SCENARIOS (Minimum 4)
+## ⚖️ ETHICAL SCENARIOS (Minimum 5)
 
 | Scenario | Key Principles | Stakeholders | Your Approach | Practiced | Confidence |
 |----------|---------------|--------------|---------------|-----------|------------|
-| 1. Jehovah's Witness refusing transfusion | Autonomy, capacity | Patient, family, team | | Day 4 | ___/10 |
-| 2. Family wants "everything" for dying patient | Beneficence, non-maleficence | Patient, family, team | | Day 4 | ___/10 |
-| 3. Medical error disclosure | Transparency, accountability | Patient, family, institution | | Day 4 | ___/10 |
-| 4. Impaired colleague | Patient safety, duty to report | Colleague, patients, regulatory | | Day 4 | ___/10 |
+| 1. Jehovah's Witness refusing transfusion | Autonomy, capacity | Patient, family, team | | Day 8 | ___/10 |
+| 2. Family wants "everything" for dying patient | Beneficence, non-maleficence | Patient, family, team | | Day 8 | ___/10 |
+| 3. Colleague being unprofessional | Professionalism, patient safety | Colleague, patient, team | | Day 8 | ___/10 |
+| 4. Medical error disclosure | Transparency, accountability | Patient, family, institution | | Day 8 | ___/10 |
+| 5. Patient requests MAID | Autonomy, Canadian legal framework | Patient, family, team | | Day 8 | ___/10 |
 
 **Target**: Comfortable with ethical framework by Day 10
 
@@ -1142,9 +1143,10 @@ For EACH interview:
 ### Interview: ____________ Program | Date: ____________
 
 **Performance:**
-- Clinical: ___/10 | What went well: ___________________
-- Behavioral: ___/10 | What went well: ___________________
-- Rapport: ___/10 | Connection: ___________________
+- Opening/Introduction: ___/10 | What went well: ___________________
+- Behavioral responses: ___/10 | What went well: ___________________
+- Program fit discussion: ___/10 | What went well: ___________________
+- Rapport/Connection: ___/10 | Connection with interviewers: ___________________
 
 **Lessons for next interview**: _______________________________________
 
@@ -1155,29 +1157,32 @@ For EACH interview:
 
 ---
 
-## 💪 FINAL INTERVIEW DAY PROTOCOL
+## 💪 QUICK INTERVIEW DAY PROTOCOL
 
 ### 2 Hours Before:
 - [ ] Light breakfast, hydration
 - [ ] Professional attire on
-- [ ] 15-minute warm-up (themes review, NOT deep content)
+- [ ] 15-minute warm-up (review "why IM" and "why this program" only)
 - [ ] Positive affirmations: "I am prepared. I am confident. I am ready."
 
 ### 15 Minutes Before:
 - [ ] Log in / arrive
-- [ ] Deep breathing (3-4 breaths)
+- [ ] Deep breathing (4 counts in, 6 counts out, repeat 5x)
 - [ ] Smile and positive energy
+- [ ] "I will be authentically me"
 
 ### During Interview:
-- [ ] Maintain eye contact (camera for virtual)
+- [ ] Start strong (confident greeting, smile, eye contact)
+- [ ] Listen carefully before responding
+- [ ] Structure answers using STAR format
 - [ ] Take brief notes
 - [ ] Ask thoughtful questions at end
 - [ ] Be authentically YOU
 
 ### After Interview:
 - [ ] Decompress (walk, call friend)
-- [ ] Reflect and document (within 2 hours)
-- [ ] Send thank-you email (within 24 hours - optional but nice)
+- [ ] Reflect and document impressions (within 2 hours)
+- [ ] Send thank-you email (within 24 hours - optional but recommended)
 
 ---
 
@@ -1306,10 +1311,10 @@ _____________________________________________________________________
 - Program Coordinator: _________________ | Phone: _________________
 - IT Helpdesk: _________________ | Phone: _________________
 
-**Study Resources:**
-- Clinical cases: _________________________________________________
-- Question banks: _________________________________________________
-- UpToDate / Guidelines: _________________________________________________
+**Preparation Resources:**
+- CaRMS interview guides: _________________________________________________
+- Behavioral question banks: _________________________________________________
+- Program websites bookmarked: _________________________________________________
 
 ---
 
