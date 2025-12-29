@@ -1,250 +1,344 @@
 # CaRMS Internal Medicine Interview Preparation
 ## 2-WEEK INTENSIVE MASTERY PLAN
 
-**Purpose**: High-impact preparation framework for competitive candidates seeking multiple offers  
+**Purpose**: High-impact preparation framework for competitive CaRMS candidates seeking multiple IM offers  
 **Timeline**: 14 days to interview excellence  
-**Strategy**: Focus on highest-yield activities that interviewers actually evaluate  
+**Focus**: What CaRMS Internal Medicine programs actually evaluate in interviews  
 **Last Updated**: December 29, 2025
 
 ---
 
 ## YOUR 2-WEEK ROADMAP
 
-**Week 1**: Core content + behavioral narratives + mock interviews (3)  
-**Week 2**: Refinement + program-specific prep + final mocks (3) + peak readiness
+**Week 1**: Behavioral narratives + program research + mock interviews (3) + file mastery  
+**Week 2**: Refinement + CaRMS-specific scenarios + final mocks (3) + peak readiness
 
 **Daily Time Commitment**: 4-6 hours focused preparation  
 **Rest Days**: Built in (Days 7 and 13) for consolidation
 
 ---
 
-## 🔥 CRITICAL PATH: NON-NEGOTIABLES
+## 🔥 CRITICAL PATH: NON-NEGOTIABLES FOR CaRMS IM
 
-These 5 areas will make or break your interview. Everything else is secondary.
+These 5 areas will make or break your CaRMS interview. Everything else is secondary.
 
-1. **Clinical Cases** (15 high-yield cases practiced aloud)
-2. **Behavioral Stories** (8 core narratives polished)
-3. **Mock Interviews** (6 minimum with feedback)
-4. **Program Knowledge** (specific reasons for each program)
-5. **Professional Presence** (confident, authentic delivery)
+1. **Behavioral Stories** (10 polished narratives that showcase fit for IM)
+2. **Program-Specific Knowledge** (deep research on each program, genuine reasons for ranking)
+3. **Mock Interviews** (6 minimum with progressive feedback)
+4. **File Mastery** (know your CV, PS, references inside-out; explain every gap/choice)
+5. **Professional Presence** (confident, authentic, collegial delivery)
+
+---
+
+## 🎯 WHAT CaRMS IM INTERVIEWS ACTUALLY ASSESS
+
+Understanding what programs evaluate helps you prepare strategically:
+
+### 1. **Will you be a good colleague?** (Collegiality/Fit)
+   - Teamwork, communication, conflict resolution
+   - How you treat nurses, allied health, junior learners
+   - Cultural fit with program
+
+### 2. **Why Internal Medicine?** (Commitment to specialty)
+   - Genuine passion for IM (not just process of elimination)
+   - Understanding of what IM actually involves
+   - Long-term career vision
+
+### 3. **Why this program specifically?** (Research/Interest)
+   - Knowledge of program structure and strengths
+   - Thoughtful questions about the program
+   - Realistic ranking intentions
+
+### 4. **Can you handle the challenges?** (Resilience/Professionalism)
+   - How you deal with failure, stress, difficulty
+   - Patient safety awareness
+   - Self-care and sustainability
+
+### 5. **Will you contribute meaningfully?** (Academic potential)
+   - Research/QI/teaching interests
+   - Leadership and initiative
+   - Growth mindset
+
+### 6. **How do you communicate?** (Communication skills)
+   - Clarity and structure in responses
+   - Empathy and professionalism
+   - Ability to handle difficult conversations
 
 ---
 
 ## 📅 DAY-BY-DAY EXECUTION PLAN
 
-### **WEEK 1: FOUNDATION & VOLUME**
+### **WEEK 1: FOUNDATION & NARRATIVE BUILDING**
 
 ---
 
-#### **DAY 1** (Today) - Assessment & Quick Wins
+#### **DAY 1** (Today) - Assessment & Foundation
 **Time: 4-5 hours**
 
-**Morning (2 hours): Self-Assessment & Planning**
-- [ ] Read through entire preparation guide
-- [ ] Identify your 3 strongest areas and 3 areas of concern
-- [ ] Review your CV, personal statement, and application materials
-- [ ] List all programs and note 1-2 unique features of each
+**Morning (2 hours): Application File Deep Dive**
+- [ ] Read entire preparation guide
+- [ ] Review your **CV** line-by-line: Know every date, role, supervisor, gap
+- [ ] Review your **Personal Statement**: Identify 3-5 key themes
+- [ ] List 3 strongest attributes and 2-3 areas of concern
+- [ ] List all programs you're interviewing with
 
-**Afternoon (2-3 hours): Start Behavioral Narratives**
-- [ ] Draft "Tell me about yourself" (300 words, time yourself: 90 seconds)
-- [ ] Draft "Why Internal Medicine" (200 words, 60 seconds)
-- [ ] Record yourself delivering both (video on phone)
-- [ ] Watch recording and note 3 improvements
+**Afternoon (2-3 hours): Start Core Narratives**
+- [ ] Draft "Tell me about yourself" (300 words, 90-120 seconds)
+  - Journey to medicine, key formative moments, why IM
+  - Record yourself on phone (video)
+  
+- [ ] Draft "Why Internal Medicine" (250 words, 60-90 seconds)
+  - Intellectual challenge, breadth, longitudinal care, teaching
+  - What specifically draws you vs other specialties
+  - Record yourself
 
-**Evening: First Clinical Review**
-- [ ] Review approach to chest pain (ACS pathway, risk stratification)
-- [ ] Review approach to shortness of breath (cardiac vs respiratory vs other)
+- [ ] Watch both recordings and note 3 things to improve
+
+**Evening: CaRMS Context Research**
+- [ ] Research CaRMS interview formats (file review, panel, MMI components)
+- [ ] Review any program-specific info emails you've received
+
+**Day 1 Deliverable**: 2 core narratives drafted + file review complete
 
 **Day 1 Confidence Score**: ___/10
 
 ---
 
-#### **DAY 2** - High-Yield Clinical Cases (Part 1)
+#### **DAY 2** - Behavioral Stories (Part 1)
 **Time: 5-6 hours**
 
-**Morning (3 hours): Clinical Case Practice**
+**Morning (3 hours): Draft Key Behavioral Narratives**
 
-Practice these 3 cases **OUT LOUD**:
+Using **STAR format** (Situation, Task, Action, Result), draft these stories:
 
-- [ ] **Case 1: Acute Coronary Syndrome**
-  - Presentation, DDx, ECG interpretation, troponin, management (MONA, antiplatelet, cath lab)
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **Leadership Example**
+  - Concrete situation, your role, actions taken, measurable impact
+  - 250-300 words | 90-120 seconds spoken
+  - Lessons learned included
 
-- [ ] **Case 2: COPD Exacerbation**
-  - Triggers, severity assessment, NIV criteria, steroids + antibiotics, discharge planning
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **Teamwork/Collaboration**
+  - Multidisciplinary example preferred
+  - How you value others' contributions
+  - 250-300 words
 
-- [ ] **Case 3: Sepsis/Septic Shock**
-  - qSOFA, source identification, 1-hour bundle, antibiotics, fluids, pressors
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **Difficult Communication** (patient or family)
+  - Empathy, de-escalation, resolution
+  - What you learned about communication
+  - 250-300 words
 
-**Afternoon (2-3 hours): Behavioral Narratives**
+**Afternoon (2-3 hours): Polish & Practice**
 
-- [ ] Draft "Leadership example" (STAR format)
-- [ ] Draft "Difficult patient/family communication"
-- [ ] Draft "Medical error/patient safety"
-- [ ] Rehearse all 5 stories so far (3 minutes each = 15 minutes total)
+- [ ] Rehearse all 5 stories so far (Tell me about yourself, Why IM, Leadership, Teamwork, Communication)
+- [ ] Time each story (should be 60-120 seconds)
+- [ ] Record yourself delivering all 5
+- [ ] Watch and critique: pacing, eye contact, filler words, energy
 
-**Day 2 Deliverable**: 3 clinical cases + 3 behavioral stories drafted
+**Evening: Schedule Mocks**
+- [ ] **ACTION**: Reach out and schedule 3 mock interviews for Days 5, 9, and 12
+  - Mock #1 (Day 5): Faculty or senior IM resident
+  - Mock #2 (Day 9): Different interviewer (attending preferred)
+  - Mock #3 (Day 12): Full simulation with someone senior
+
+**Day 2 Deliverable**: 5 behavioral stories drafted and rehearsed 2x each
 
 ---
 
-#### **DAY 3** - High-Yield Clinical Cases (Part 2)
+#### **DAY 3** - Behavioral Stories (Part 2) + Program Research Begins
 **Time: 5-6 hours**
 
-**Morning (3 hours): Clinical Case Practice**
+**Morning (3 hours): Draft Remaining Core Stories**
 
-- [ ] **Case 4: GI Bleeding (Upper)**
-  - Risk stratification (Rockall), resuscitation, PPI, endoscopy timing, variceal vs non-variceal
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **Medical Error / Patient Safety**
+  - Accountability, transparency, systems thinking
+  - What you learned, how it changed your practice
+  - 250-300 words
 
-- [ ] **Case 5: Acute Kidney Injury**
-  - Prerenal/intrinsic/postrenal, urinalysis, FeNa, dialysis indications (AEIOU)
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **Failure / Setback / Challenge**
+  - Genuine difficulty, emotional honesty
+  - Growth mindset, resilience, what you learned
+  - 250-300 words
 
-- [ ] **Case 6: DKA**
-  - Diagnosis (hyperglycemia, anion gap, ketones), fluids, insulin, K+ replacement, precipitants
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **Conflict with Colleague**
+  - Professionalism, direct communication, resolution
+  - Respect maintained throughout
+  - 250-300 words
 
-**Afternoon (2-3 hours): Mock Interview Prep**
+- [ ] **Strength & Area for Growth**
+  - Strength: evidence-based with examples
+  - Growth area: genuine but strategic, with improvement plan
+  - 150 words each
 
-- [ ] Schedule Mock Interview #1 (for Day 5) with faculty/senior resident
-- [ ] Draft remaining behavioral stories:
-  - [ ] "Teamwork/collaboration"
-  - [ ] "Failure/setback"
-  - [ ] "Strength and area for growth"
+**Afternoon (2-3 hours): Program Research (Start)**
 
-**Evening: Review**
-- [ ] Rehearse all 8 behavioral stories (20 minutes total)
-- [ ] Quick review of Cases 1-6 (30 minutes)
+Begin deep dive on each program. For today, focus on 2-3 programs:
 
-**Day 3 Deliverable**: 6 clinical cases completed + 8 behavioral stories drafted
+**Program 1**: _____________________
+- [ ] Review website: structure, curriculum, special features
+- [ ] Note 2-3 unique strengths
+- [ ] Identify 2-3 faculty whose work interests you
+- [ ] Draft "Why this program" (100-150 words)
+- [ ] Write 3 thoughtful questions to ask
+
+**Evening: Full Rehearsal**
+- [ ] Rehearse all 8 behavioral stories in random order (30 minutes)
+- [ ] Note which stories feel most/least natural
+
+**Day 3 Deliverable**: 8 core stories completed + 2-3 programs researched
 
 ---
 
-#### **DAY 4** - Clinical Cases (Part 3) + Ethical Scenarios
+#### **DAY 4** - Program Research Deep Dive + Additional Narratives
 **Time: 5-6 hours**
 
-**Morning (3 hours): Clinical Case Practice**
+**Morning (3 hours): Complete Program Research**
 
-- [ ] **Case 7: Heart Failure Exacerbation**
-  - Acute vs chronic, precipitants, diuresis, GDMT optimization
-  - Timed: ___ minutes | Confidence: ___/10
+For EACH remaining program, complete:
 
-- [ ] **Case 8: Pulmonary Embolism**
-  - Wells score, PERC, imaging, anticoagulation, thrombolysis indications
-  - Timed: ___ minutes | Confidence: ___/10
+**Program 2-5+**: _____________________
+- [ ] Program structure and curriculum
+- [ ] Unique strengths and differentiators
+- [ ] Faculty research interests (2-3 names)
+- [ ] "Why this program" narrative (100-150 words)
+- [ ] 3 thoughtful questions to ask
+- [ ] Note any red flags or concerns you have
 
-- [ ] **Case 9: Stroke**
-  - Ischemic vs hemorrhagic, tPA window/criteria, mechanical thrombectomy, stroke unit care
-  - Timed: ___ minutes | Confidence: ___/10
+**Afternoon (2-3 hours): Supplementary Narratives**
 
-**Afternoon (2-3 hours): Ethical Scenarios**
+Draft responses to these common CaRMS questions:
 
-Practice these ethical scenarios **OUT LOUD**:
+- [ ] **"What will you contribute to our program?"**
+  - Specific skills, experiences, perspectives
+  - 150 words
 
-- [ ] **Scenario 1**: Jehovah's Witness refusing life-saving transfusion
-  - Stakeholders, autonomy, capacity assessment, alternatives
-  
-- [ ] **Scenario 2**: Family wants "everything" for patient with poor prognosis
-  - Goals of care, prognostication, conflict resolution, ethics consultation
+- [ ] **"Tell me about a time you advocated for a patient"**
+  - Patient or system-level advocacy
+  - STAR format | 250 words
 
-- [ ] **Scenario 3**: Medical error disclosure
-  - Transparency, apology, corrective actions, patient safety
+- [ ] **"How do you manage stress/maintain wellness?"**
+  - Specific strategies, evidence of self-awareness
+  - Sustainable approach | 150 words
 
-- [ ] **Scenario 4**: Colleague impairment (substance use)
-  - Patient safety, duty to report, supportive approach, regulatory obligations
+- [ ] **"Where do you see yourself in 5-10 years?"**
+  - Career vision, but flexible and realistic
+  - Connection to IM | 150 words
 
-**Evening**:
-- [ ] Rehearse all 8 behavioral stories (full run-through: 20 minutes)
-- [ ] Prepare materials for Mock Interview #1 tomorrow
+**Evening: Prepare for Mock #1**
+- [ ] Review all narratives (quick read-through)
+- [ ] Prepare questions about the mock interview format
+- [ ] Print/organize your CV and PS for reference
 
-**Day 4 Deliverable**: 9 clinical cases + 4 ethical scenarios completed
+**Day 4 Deliverable**: All programs researched + 12 narratives complete
 
 ---
 
-#### **DAY 5** - Mock Interview #1 + Program Research
+#### **DAY 5** - Mock Interview #1 + Feedback Integration
 **Time: 5-6 hours**
 
 **Morning: MOCK INTERVIEW #1** (90-120 minutes)
 
 - [ ] **Mock Interview #1 Completed** with: _____________________
-  - Format: Clinical + Behavioral
-  - Clinical Performance: ___/10
-  - Behavioral Performance: ___/10
-  - Professionalism: ___/10
-  - Key Strengths Identified:
-  - Top 3 Areas for Improvement:
+  
+  **Format**: File review + Behavioral questions
+  
+  **Performance Scores**:
+  - Tell me about yourself: ___/10
+  - Why IM: ___/10
+  - Behavioral responses: ___/10
+  - Program-specific knowledge: ___/10
+  - Professional presence: ___/10
+  - **Overall: ___/10**
+  
+  **Key Strengths Identified**:
+  1. _________________________________________________
+  2. _________________________________________________
+  3. _________________________________________________
+  
+  **Top 3 Areas for Improvement**:
+  1. _________________________________________________
+  2. _________________________________________________
+  3. _________________________________________________
 
-**Afternoon (3 hours): Program-Specific Research**
+**Afternoon (3-4 hours): Feedback Integration**
 
-For EACH program, complete this template:
+- [ ] Review detailed feedback from Mock #1
+- [ ] Identify 1-2 recurring issues (e.g., too long-winded, lack of examples, nervous energy)
+- [ ] Revise weakest 2-3 stories based on feedback
+- [ ] Re-record those stories and watch improvement
+- [ ] Practice specific skills identified (e.g., brevity, eye contact, structure)
 
-**Program 1**: _____________________
-- [ ] Structure (traditional/block, clinic, electives):
-- [ ] Unique strengths (1-2 specific features):
-- [ ] Faculty research interests (2-3 names):
-- [ ] "Why this program" (100 words): ___________________________
-- [ ] Questions to ask (3):
+**Evening: Self-Reflection**
+- [ ] Journal: What went well? What surprised me? What do I need to work on?
+- [ ] Update narratives document with any new insights
+- [ ] Rehearse revised stories 2-3x
 
-**Program 2**: _____________________
-- [ ] (Same template)
-
-**Program 3**: _____________________
-- [ ] (Same template)
-
-*Continue for all programs*
-
-**Evening**:
-- [ ] Review Mock Interview #1 feedback
-- [ ] Create action plan for top 3 improvements
-- [ ] Rehearse weakest behavioral story 3x
-
-**Day 5 Deliverable**: Mock #1 completed + all programs researched
+**Day 5 Deliverable**: Mock #1 complete + targeted improvements made
 
 ---
 
-#### **DAY 6** - Clinical Cases (Part 4) + Integration
+#### **DAY 6** - CaRMS-Specific Scenarios + Advanced Prep
 **Time: 5-6 hours**
 
-**Morning (3 hours): Clinical Case Practice**
+**Morning (3 hours): CaRMS-Specific Preparation**
 
-- [ ] **Case 10: Pneumonia (CAP)**
-  - Severity (CURB-65/PSI), outpatient vs inpatient, antibiotic selection, complications
-  - Timed: ___ minutes | Confidence: ___/10
+Practice responses to these CaRMS-common questions:
 
-- [ ] **Case 11: Atrial Fibrillation**
-  - New onset, rate vs rhythm control, anticoagulation (CHA2DS2-VASc, HAS-BLED)
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **"Why did you choose these programs to apply to?"**
+  - Theme across your rank list (geography, academic/community balance, curriculum)
+  - 150 words
 
-- [ ] **Case 12: Altered Mental Status**
-  - Delirium vs dementia vs encephalopathy, workup, management, prevention
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **"How do you decide how to rank programs?"**
+  - Factors you weigh (clinical training, research, location, fit)
+  - Honest but diplomatic | 150 words
 
-**Afternoon (2-3 hours): Apply Mock #1 Feedback**
+- [ ] **"What if you don't match?"**
+  - Backup plan, resilience, commitment to IM
+  - 150 words
 
-- [ ] Re-record weakest responses from Mock #1
-- [ ] Revise behavioral stories based on feedback
-- [ ] Practice specific area identified as needing improvement (3x repetitions)
+- [ ] **"Tell me about your research"** (for EACH project)
+  - Elevator pitch: hypothesis, methods, results, significance
+  - Your specific role and contributions
+  - 60-90 seconds per project
 
-**Evening**:
-- [ ] Speed review: All 12 clinical cases (5 minutes each = 60 minutes)
-- [ ] Rehearse all behavioral stories (20 minutes)
+- [ ] **"What questions do you have for us?"**
+  - Prepare 5-7 thoughtful questions per program (rotate during interview)
+  - Avoid questions answered on website
 
-**Day 6 Deliverable**: 12 clinical cases completed + Mock #1 improvements integrated
+**Afternoon (2-3 hours): Canadian Context & Professionalism**
+
+- [ ] **Canadian Healthcare System**
+  - Current challenges: wait times, funding, access, physician burnout
+  - Your thoughts on resource stewardship
+  - Role of IM in healthcare transformation
+  - 200 words of notes
+
+- [ ] **Indigenous Health & Cultural Safety**
+  - Awareness of Truth & Reconciliation
+  - Culturally safe care commitments
+  - 150 words
+
+- [ ] **EDI (Equity, Diversity, Inclusion)**
+  - How you've contributed to EDI
+  - Commitment to inclusive care/training
+  - 150 words
+
+**Evening: Full Narrative Run-Through**
+- [ ] Rehearse all 12+ narratives in random order (45 minutes)
+- [ ] Time yourself strictly (stay within 60-120 seconds per story)
+
+**Day 6 Deliverable**: CaRMS-specific responses ready + context awareness
 
 ---
 
 #### **DAY 7** - Rest & Consolidation (Light Day)
 **Time: 2-3 hours**
 
-**No heavy studying today** - Consolidation and recovery
+**No heavy preparation today** - Consolidation and recovery
 
-- [ ] Light review: Flip through clinical case notes (30 minutes)
-- [ ] Casual rehearsal: Tell your story to friend/family (informal)
-- [ ] Schedule Mocks #2 and #3 for next week (Days 9 and 12)
-- [ ] Self-care: Exercise, good meal, full night's sleep
-- [ ] Visualization: Imagine successful interview (10 minutes)
+- [ ] Light review: Flip through your narratives (30 minutes, no rehearsing)
+- [ ] Casual practice: Tell "About me" and "Why IM" to friend/family (informal)
+- [ ] Confirm Mocks #2 and #3 are scheduled for Days 9 and 12
+- [ ] Self-care: Exercise, healthy meal, 8+ hours sleep
+- [ ] Visualization: Imagine successful interview, confident responses (10 minutes)
 
 **Confidence Check**: Overall readiness ___/10
 
@@ -254,45 +348,60 @@ For EACH program, complete this template:
 
 ---
 
-#### **DAY 8** - Advanced Clinical Cases + Research Deep Dive
+#### **DAY 8** - Ethical Scenarios + Reference Letter Awareness
 **Time: 5-6 hours**
 
-**Morning (3 hours): Clinical Case Practice**
+**Morning (3 hours): Ethical & Professional Scenarios**
 
-- [ ] **Case 13: Hyponatremia**
-  - Hypovolemic/euvolemic/hypervolemic, correction rate, complications
-  - Timed: ___ minutes | Confidence: ___/10
+CaRMS IM interviews often include ethical dilemmas. Practice these **OUT LOUD**:
 
-- [ ] **Case 14: Liver Failure / Cirrhosis**
-  - Child-Pugh, MELD, complications (ascites, HE, SBP, variceal bleed)
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **Scenario 1: Jehovah's Witness refusing life-saving transfusion**
+  - Capacity assessment, respecting autonomy, exploring alternatives
+  - Stakeholders: patient, family, healthcare team
+  - Practiced: ___x | Confidence: ___/10
 
-- [ ] **Case 15: Anemia Workup**
-  - MCV-based approach, iron deficiency vs anemia of chronic disease vs hemolysis
-  - Timed: ___ minutes | Confidence: ___/10
+- [ ] **Scenario 2: Family wants "everything" for dying patient**
+  - Goals of care, honest prognostication, conflict navigation
+  - Medical futility vs family wishes
+  - Practiced: ___x | Confidence: ___/10
 
-**Afternoon (2-3 hours): Research/Academic Portfolio**
+- [ ] **Scenario 3: You witness a colleague being dismissive to a nurse**
+  - Professionalism, team dynamics, how to address
+  - Direct communication, escalation if needed
+  - Practiced: ___x | Confidence: ___/10
 
-For EACH of your research projects/publications:
+- [ ] **Scenario 4: You made a medication error**
+  - Disclosure, accountability, patient safety, systems thinking
+  - Transparency and corrective action
+  - Practiced: ___x | Confidence: ___/10
 
-**Project 1**: _____________________
-- [ ] Elevator pitch (30 seconds): ___________________________
-- [ ] Hypothesis:
-- [ ] Methods (60 seconds):
-- [ ] Results (key numbers):
-- [ ] Limitations (3):
-- [ ] Clinical significance:
-- [ ] Your role:
-- [ ] Rehearsed: ___x (Target: 3x today)
+- [ ] **Scenario 5: Patient requests MAID (Medical Assistance in Dying)**
+  - Canadian legal framework, eligibility, conscientious objection
+  - Non-judgmental approach
+  - Practiced: ___x | Confidence: ___/10
 
-**Project 2**: _____________________
-- [ ] (Same template)
+**Afternoon (2-3 hours): Deep File Knowledge**
+
+- [ ] **Reference Letters**:
+  - Who wrote each letter and their role/relationship to you
+  - What each likely emphasized (clinical skills, leadership, research, etc.)
+  - Prepare to discuss why you chose each referee
+  - Have examples that support what they wrote
+
+- [ ] **CV Deep Dive**:
+  - Explain any timeline gaps or unusual choices
+  - Quantify achievements where possible
+  - Be prepared to discuss ANY line item
+
+- [ ] **Personal Statement**:
+  - Memorize 3-5 key pull quotes
+  - Practice weaving PS themes naturally into interview answers
 
 **Evening**:
 - [ ] Prepare materials for Mock Interview #2 tomorrow
-- [ ] Final rehearsal of all behavioral stories (20 minutes)
+- [ ] Rehearse all behavioral narratives one time through (30 minutes)
 
-**Day 8 Deliverable**: 15 clinical cases + research narratives polished
+**Day 8 Deliverable**: Ethical scenarios practiced + file mastery achieved
 
 ---
 
@@ -302,128 +411,183 @@ For EACH of your research projects/publications:
 **Morning: MOCK INTERVIEW #2** (90-120 minutes)
 
 - [ ] **Mock Interview #2 Completed** with: _____________________
-  - Format: Clinical + Behavioral + Ethical
-  - Clinical Performance: ___/10
-  - Behavioral Performance: ___/10
-  - Ethical Reasoning: ___/10
-  - Improvement from Mock #1: (Note specific progress)
-  - Remaining Areas for Focus:
+  
+  **Format**: File review + Behavioral + Ethical scenario
+  
+  **Performance Scores**:
+  - Opening (Tell me about yourself): ___/10
+  - Why IM / Program fit: ___/10
+  - Behavioral responses: ___/10
+  - Ethical reasoning: ___/10
+  - Professionalism/communication: ___/10
+  - **Overall: ___/10**
+  
+  **Improvement from Mock #1**:
+  - What got better: _____________________________________________
+  - What still needs work: _______________________________________
+  
+  **Top 2-3 Areas for Focus**:
+  1. _________________________________________________
+  2. _________________________________________________
+  3. _________________________________________________
 
 **Afternoon (3 hours): Targeted Improvement**
 
 - [ ] Review Mock #2 feedback in detail
-- [ ] Identify 2-3 recurring patterns from both mocks
-- [ ] Re-rehearse weakest areas (minimum 5x each)
-- [ ] Record and review video of improved responses
+- [ ] Compare feedback from Mocks #1 and #2 - identify patterns
+- [ ] Address recurring issues (e.g., brevity, structure, eye contact)
+- [ ] Re-rehearse weakest 2-3 responses (5x each)
+- [ ] Record video of improved responses and confirm progress
 
-**Evening: Clinical Consolidation**
-- [ ] Review all 15 clinical cases (speed review: 3-4 min each)
-- [ ] Note any gaps in knowledge
-- [ ] Review high-yield clinical frameworks (VINDICATE, SOAP, etc.)
+**Evening: Integration**
+- [ ] Full run-through of all narratives incorporating all feedback (45 min)
+- [ ] Note which stories are now strongest vs weakest
+- [ ] Journal: What patterns am I seeing? What's clicking?
 
-**Day 9 Deliverable**: Mock #2 completed + targeted improvements made
+**Day 9 Deliverable**: Mock #2 completed + significant improvements integrated
 
 ---
 
-#### **DAY 10** - Communication Scenarios + Canadian Context
+#### **DAY 10** - Communication Scenarios + QI/Academic Interests
 **Time: 4-5 hours**
 
-**Morning (2 hours): Communication Practice**
+**Morning (2 hours): Communication Scenarios**
 
-Practice these scenarios **OUT LOUD** with structured approach:
+These are common in CaRMS IM MMI-style stations. Practice **OUT LOUD**:
 
 - [ ] **Breaking Bad News** (SPIKES protocol)
-  - Scenario: New diagnosis of metastatic cancer
+  - Setting, Perception, Invitation, Knowledge, Empathy, Summary
+  - Practice scenario: New diagnosis of terminal illness
   - Practiced: ___x | Confidence: ___/10
 
-- [ ] **Informed Consent** (Risk/benefit/alternatives/questions)
-  - Scenario: Cardiac catheterization for NSTEMI
+- [ ] **Informed Consent for Procedure**
+  - Indication, risks, benefits, alternatives
+  - Ensure understanding, answer questions
   - Practiced: ___x | Confidence: ___/10
 
 - [ ] **Goals of Care Discussion**
-  - Scenario: Advanced COPD, recurrent hospitalizations
+  - Eliciting patient values, discussing prognosis
+  - Advance care planning
   - Practiced: ___x | Confidence: ___/10
 
-**Afternoon (2-3 hours): Canadian Healthcare Context**
+- [ ] **De-escalating Angry Family Member**
+  - Empathy, listening, addressing concerns
+  - Maintaining boundaries and professionalism
+  - Practiced: ___x | Confidence: ___/10
 
-- [ ] Review current health policy issues in Canada (choose 2-3):
-  - Healthcare funding challenges
-  - Wait times and access
-  - Physician burnout and retention
-  - Indigenous health and reconciliation
-  - EDI initiatives in medicine
+**Afternoon (2-3 hours): Academic Portfolio & Future Vision**
 
-- [ ] Prepare opinion + examples for:
-  - [ ] Resource stewardship / value-based care
-  - [ ] Role of IM in system transformation
-  - [ ] Quality improvement (familiar with PDSA cycles)
+- [ ] **Research Projects** (for EACH project):
+  - 30-second elevator pitch
+  - 90-second detailed explanation (hypothesis, methods, results, limitations)
+  - Your specific role and contributions
+  - What you learned (scientific + personal)
+  - Rehearse each project: ___x (Target: 3x)
 
-- [ ] Refine program-specific "fit" narratives (review Day 5 work)
+- [ ] **Quality Improvement / Teaching Experience**:
+  - QI project: PDSA cycles, metrics, outcomes
+  - Teaching: what you taught, learners, feedback received
+  - 90 seconds each
 
-**Day 10 Deliverable**: Communication scenarios practiced + Canadian context prepared
+- [ ] **Future Career Vision**:
+  - Where do you see yourself in 5-10 years?
+  - Academic vs community, subspecialty interests (if any)
+  - How residency will help you get there
+  - 90 seconds
+
+**Day 10 Deliverable**: Communication scenarios + academic portfolio polished
 
 ---
 
-#### **DAY 11** - Polish & Integration
+#### **DAY 11** - Full Integration + Polish
 **Time: 4-5 hours**
 
-**Morning (2 hours): Full Clinical Run-Through**
+**Morning (2 hours): Complete Narrative Run-Through**
 
-- [ ] Rapid review of all 15 clinical cases (2-3 min each)
-- [ ] Practice switching between cases fluidly
-- [ ] Review key frameworks and scores (CHA2DS2-VASc, CURB-65, Wells, etc.)
-- [ ] ECG interpretation review (10 high-yield ECGs)
+- [ ] Rehearse ALL narratives in random order (simulate real interview)
+  - Tell me about yourself
+  - Why IM
+  - Why each program (rotate through)
+  - All 10+ behavioral stories
+  - Research/academic interests
+  - Future vision
 
-**Afternoon (2-3 hours): Full Behavioral Run-Through**
+- [ ] Time strictly (60-120 seconds each)
+- [ ] Ensure natural delivery (not robotic/memorized)
+- [ ] Record full session and review for:
+  - Pacing and clarity
+  - Eye contact and body language
+  - Energy and enthusiasm
+  - Filler words ("um," "like," "you know")
 
-- [ ] Rehearse all 8 behavioral stories in random order
-- [ ] Time each story (should be 60-120 seconds)
-- [ ] Ensure natural delivery (not memorized/robotic)
-- [ ] Record video and review for:
-  - Body language and eye contact
-  - Vocal tone and pacing
-  - Confidence and authenticity
+**Afternoon (2-3 hours): Program-Specific Final Prep**
 
-**Evening**:
-- [ ] Prepare materials for Mock Interview #3 tomorrow
-- [ ] Review program-specific materials
-- [ ] Self-care: Light exercise, early bedtime
+For EACH program, finalize:
 
-**Day 11 Deliverable**: Complete run-through of all materials
+- [ ] Review program website one more time
+- [ ] Memorize "Why this program" (60-90 seconds)
+- [ ] Confirm 3-5 thoughtful questions to ask
+- [ ] Note any recent program news/changes
+- [ ] Create 1-page cheat sheet per program (for quick review before interview)
+
+**Evening: Prepare for Mock #3**
+- [ ] Organize materials: CV, PS, program notes
+- [ ] Review any specific feedback from Mocks #1 and #2
+- [ ] Early bedtime (need to be fresh for full simulation tomorrow)
+
+**Day 11 Deliverable**: Full integration complete + program-specific prep finalized
 
 ---
 
-#### **DAY 12** - Mock Interview #3 (Full Simulation)
+#### **DAY 12** - Mock Interview #3 (Full CaRMS Simulation)
 **Time: 5-6 hours**
 
 **Morning: MOCK INTERVIEW #3** (Full Simulation: 2-3 hours)
 
 - [ ] **Mock Interview #3 Completed** with: _____________________
-  - Format: Full simulation (Clinical + Behavioral + Ethical + Program-specific)
-  - Presentation at start (Tell me about yourself): ___/10
-  - Clinical Case: ___/10
-  - Behavioral Responses: ___/10
-  - Ethical Reasoning: ___/10
-  - Program Fit Discussion: ___/10
-  - Professional Presence: ___/10
+  
+  **Format**: Full CaRMS-style simulation
+  - File review (CV, PS discussion)
+  - Behavioral questions
+  - Ethical scenario
+  - Program-specific questions
+  - Your questions for them
+  
+  **Performance Scores**:
+  - Introduction/Tell me about yourself: ___/10
+  - Why IM: ___/10
+  - Behavioral responses: ___/10
+  - Ethical reasoning: ___/10
+  - Program knowledge/fit: ___/10
+  - Communication skills: ___/10
+  - Professional presence: ___/10
   - **Overall: ___/10**
   
-  - Progress from Mock #1 to #3:
-  - Final areas to refine:
+  **Progress Assessment**:
+  - Mock #1 overall: ___/10
+  - Mock #2 overall: ___/10
+  - Mock #3 overall: ___/10
+  - **Total improvement**: +___ points
+  
+  **Final Areas to Refine**:
+  1. _________________________________________________
+  2. _________________________________________________
 
-**Afternoon (2-3 hours): Final Adjustments**
+**Afternoon (2-3 hours): Final Polish**
 
-- [ ] Address any remaining gaps from Mock #3
-- [ ] Polish 1-2 stories that need final refinement
-- [ ] Review program-specific reasons (ensure confident on all programs)
-- [ ] Prepare thoughtful questions for each program (3 per program)
+- [ ] Address any last gaps from Mock #3
+- [ ] Polish 1-2 narratives that still need work
+- [ ] Practice the specific area identified as final weakness (5x)
+- [ ] Review all program-specific materials one more time
+- [ ] Confirm questions for each program are thoughtful and not easily Google-able
 
-**Evening**:
-- [ ] Review personal statement and CV one final time
-- [ ] Ensure you can discuss any item on your application
-- [ ] Light relaxation (no heavy studying)
+**Evening: File Review**
+- [ ] Read PS and CV one final time
+- [ ] Ensure you can discuss ANY item on your application comfortably
+- [ ] Light activity (walk, call supportive friend)
+- [ ] NO heavy preparation
 
-**Day 12 Deliverable**: Mock #3 completed + final polish applied
+**Day 12 Deliverable**: Mock #3 complete + final polish applied + ready to perform
 
 ---
 
@@ -493,78 +657,154 @@ Practice these scenarios **OUT LOUD** with structured approach:
 
 ---
 
-## 📊 MASTER TRACKING: 15 HIGH-YIELD CLINICAL CASES
+## 📊 MASTER TRACKING: 10 ESSENTIAL CARMS NARRATIVES
 
-| Case # | Topic | Key Elements | Day Practiced | Confidence (/10) | Time (min) | Notes |
-|--------|-------|--------------|---------------|------------------|------------|-------|
-| 1 | **ACS** | STEMI/NSTEMI, ECG, troponin, MONA, cath lab | Day 2 | | | |
-| 2 | **COPD Exacerbation** | Severity, NIV, steroids, antibiotics | Day 2 | | | |
-| 3 | **Sepsis/Septic Shock** | qSOFA, 1-hour bundle, source control | Day 2 | | | |
-| 4 | **Upper GI Bleed** | Rockall, resuscitation, PPI, endoscopy | Day 3 | | | |
-| 5 | **AKI** | Pre/intrinsic/post, FeNa, dialysis (AEIOU) | Day 3 | | | |
-| 6 | **DKA** | Anion gap, fluids, insulin, K+ | Day 3 | | | |
-| 7 | **CHF Exacerbation** | Acute vs chronic, diuresis, GDMT | Day 4 | | | |
-| 8 | **Pulmonary Embolism** | Wells, imaging, anticoagulation | Day 4 | | | |
-| 9 | **Stroke** | tPA window, thrombectomy, stroke unit | Day 4 | | | |
-| 10 | **CAP** | CURB-65, antibiotics, admission criteria | Day 6 | | | |
-| 11 | **Atrial Fibrillation** | Rate/rhythm, anticoagulation scores | Day 6 | | | |
-| 12 | **Altered Mental Status** | Delirium/dementia/encephalopathy | Day 6 | | | |
-| 13 | **Hyponatremia** | Volume status, correction rate | Day 8 | | | |
-| 14 | **Liver Failure** | Child-Pugh, MELD, complications | Day 8 | | | |
-| 15 | **Anemia** | MCV approach, iron studies | Day 8 | | | |
+| # | Story | Key Message | Target Length | Drafted | Rehearsed (x) | Confidence (/10) | Notes |
+|---|-------|-------------|---------------|---------|---------------|------------------|-------|
+| 1 | **Tell me about yourself** | Journey to medicine, values, why IM | 90-120 sec | Day 1 | ___/15 | | |
+| 2 | **Why Internal Medicine** | Intellectual challenge, breadth, patient care | 60-90 sec | Day 1 | ___/15 | | |
+| 3 | **Leadership** | Impact, team dynamics, results | 90-120 sec | Day 2 | ___/10 | | |
+| 4 | **Difficult communication** | Empathy, resolution, learning | 90-120 sec | Day 2 | ___/10 | | |
+| 5 | **Medical error/safety** | Accountability, transparency, systems | 90-120 sec | Day 2 | ___/10 | | |
+| 6 | **Teamwork/collaboration** | Multidisciplinary, conflict resolution | 90-120 sec | Day 3 | ___/10 | | |
+| 7 | **Failure/setback** | Resilience, growth mindset | 90-120 sec | Day 3 | ___/10 | | |
+| 8 | **Conflict with colleague** | Professionalism, direct communication | 90-120 sec | Day 3 | ___/10 | | |
+| 9 | **Strength & Area for growth** | Self-awareness, strategic | 60 sec each | Day 3 | ___/10 | | |
+| 10 | **Patient advocacy** | Initiative, impact | 90-120 sec | Day 4 | ___/10 | | |
 
-**Target**: All 15 cases at 7+/10 confidence by Day 11
+**Target**: All narratives at 8+/10 confidence and natural delivery by Day 11
 
 ---
 
-## 🎭 8 ESSENTIAL BEHAVIORAL NARRATIVES
+## 🎯 SUPPLEMENTARY CARMS QUESTIONS
 
-| Story | Key Message | STAR Elements | Drafted | Polished | Rehearsed (x) | Final (/10) |
-|-------|-------------|---------------|---------|----------|---------------|-------------|
-| 1. Tell me about yourself | Journey, values, why IM | (90-120 sec) | Day 1 | | ___/15 | |
-| 2. Why Internal Medicine | Intellectual, breadth, relationships | (60 sec) | Day 1 | | ___/15 | |
-| 3. Leadership | Impact, team, results | S-T-A-R | Day 2 | | ___/10 | |
-| 4. Difficult communication | Empathy, resolution | S-T-A-R | Day 2 | | ___/10 | |
-| 5. Medical error/safety | Accountability, systems | S-T-A-R | Day 2 | | ___/10 | |
-| 6. Teamwork | Collaboration, conflict resolution | S-T-A-R | Day 3 | | ___/10 | |
-| 7. Failure/setback | Growth, resilience | S-T-A-R | Day 3 | | ___/10 | |
-| 8. Strength & Growth Area | Self-aware, strategic | Brief examples | Day 3 | | ___/10 | |
+| Question | Key Points | Target Length | Drafted | Rehearsed (x) | Ready? |
+|----------|-----------|---------------|---------|---------------|--------|
+| What will you contribute to our program? | Specific skills, experiences, unique perspective | 60-90 sec | Day 4 | ___/5 | [ ] |
+| How do you manage stress/wellness? | Specific strategies, sustainability, self-awareness | 60 sec | Day 4 | ___/5 | [ ] |
+| Where do you see yourself in 5-10 years? | Career vision, connection to IM, flexibility | 60-90 sec | Day 4 | ___/5 | [ ] |
+| Why did you apply to these programs? | Theme/rationale, fit factors | 60 sec | Day 6 | ___/5 | [ ] |
+| How will you rank programs? | Factors you weigh, honesty but diplomatic | 60 sec | Day 6 | ___/5 | [ ] |
+| What if you don't match? | Backup plan, resilience, commitment | 60 sec | Day 6 | ___/5 | [ ] |
 
-**Target**: All stories at 8+/10 and natural delivery by Day 11
+---
+
+## 🧪 ETHICAL SCENARIOS TRACKING
+
+| Scenario | Key Principles | Stakeholders | Practiced (x) | Confidence (/10) |
+|----------|---------------|--------------|---------------|------------------|
+| Jehovah's Witness refusing transfusion | Autonomy, capacity, alternatives | Patient, family, team | ___/3 | |
+| Family wants "everything" for dying patient | Beneficence, non-maleficence, goals of care | Patient, family, team | ___/3 | |
+| You witness colleague being unprofessional | Professionalism, patient safety, escalation | Colleague, patient, team | ___/3 | |
+| You made a medication error | Transparency, accountability, systems | Patient, family, institution | ___/3 | |
+| Patient requests MAID | Autonomy, Canadian legal framework | Patient, family, team | ___/3 | |
+
+**Target**: Comfortable applying ethical framework by Day 10
+
+---
+
+## 💬 COMMUNICATION SCENARIOS
+
+| Scenario | Protocol/Approach | Practiced (x) | Confidence (/10) |
+|----------|------------------|---------------|------------------|
+| Breaking bad news | SPIKES (Setting, Perception, Invitation, Knowledge, Empathy, Summary) | ___/3 | |
+| Informed consent | Indication, risks, benefits, alternatives, questions | ___/3 | |
+| Goals of care discussion | Values, prognosis, advance directives | ___/3 | |
+| De-escalating angry family | Empathy, listen, address concerns, boundaries | ___/3 | |
+
+**Target**: Comfortable with communication framework by Day 10
 
 ---
 
 ## 🎯 6 MOCK INTERVIEWS (MANDATORY)
 
-| Mock # | Date | Interviewer | Format | Clinical (/10) | Behavioral (/10) | Overall (/10) | Key Feedback |
-|--------|------|-------------|--------|----------------|------------------|---------------|--------------|
-| 1 | Day 5 | | Clinical + Behavioral | | | | |
-| 2 | Day 9 | | Clinical + Behavioral + Ethical | | | | |
-| 3 | Day 12 | | Full Simulation | | | | |
-| 4 | | | (Optional) | | | | |
-| 5 | | | (Optional) | | | | |
-| 6 | | | (Optional) | | | | |
+| Mock # | Date | Interviewer | Format | File Review (/10) | Behavioral (/10) | Ethical (/10) | Overall (/10) | Key Feedback |
+|--------|------|-------------|--------|-------------------|------------------|---------------|---------------|--------------|
+| 1 | Day 5 | | File Review + Behavioral | | | N/A | | |
+| 2 | Day 9 | | Behavioral + Ethical | | | | | |
+| 3 | Day 12 | | Full CaRMS Simulation | | | | | |
+| 4 | | | (Optional) | | | | | |
+| 5 | | | (Optional) | | | | | |
+| 6 | | | (Optional) | | | | | |
 
-**Minimum**: 3 mocks (Days 5, 9, 12)  
+**Minimum**: 3 mocks (Days 5, 9, 12) - NON-NEGOTIABLE  
 **Ideal**: 6 mocks if time permits  
-**Goal**: Show progressive improvement (score +1-2 points each mock)
+**Goal**: Progressive improvement (aim for +1-2 points overall each mock)  
+**Best interviewer**: IM faculty or senior IM resident who knows CaRMS format
 
 ---
 
-## 📍 PROGRAM-SPECIFIC PREPARATION
+## 📍 PROGRAM-SPECIFIC PREPARATION (CRITICAL!)
+
+**This is where most candidates fall short.** Deep program knowledge shows genuine interest.
 
 Complete for EACH program:
 
-| Program | Structure Notes | Unique Features | Faculty Interests | "Why Here" (100 words) | Questions (3) | Complete? |
-|---------|----------------|-----------------|-------------------|----------------------|---------------|-----------|
-| 1. | | | | | | [ ] |
-| 2. | | | | | | [ ] |
-| 3. | | | | | | [ ] |
-| 4. | | | | | | [ ] |
-| 5. | | | | | | [ ] |
+| Program | City | Academic/Community | Unique Strengths | Faculty of Interest | "Why Here" Ready? | Questions Prepared | Complete? |
+|---------|------|-------------------|------------------|---------------------|-------------------|-------------------|-----------|
+| 1. | | | | | [ ] | [ ] | [ ] |
+| 2. | | | | | [ ] | [ ] | [ ] |
+| 3. | | | | | [ ] | [ ] | [ ] |
+| 4. | | | | | [ ] | [ ] | [ ] |
+| 5. | | | | | [ ] | [ ] | [ ] |
+| 6. | | | | | [ ] | [ ] | [ ] |
 
-**Completed by**: Day 5  
-**Reviewed**: Days 10, 13, 14
+**Completed by**: Day 4  
+**Reviewed**: Days 7, 10, 11, 13, 14
+
+---
+
+### Program Research Template
+
+For EACH program, answer these in detail:
+
+#### Program: _____________________
+
+**Basic Information**:
+- Structure: Traditional vs block? Longitudinal clinic? Elective time?
+- Size: Number of residents per year?
+- Hospitals: Main teaching sites?
+
+**Unique Strengths** (Identify 2-3):
+1. _________________________________________________________________
+2. _________________________________________________________________
+3. _________________________________________________________________
+
+**Faculty Research/Interests** (Identify 2-3 faculty):
+1. Dr. ______________ - Specialty: ______________ - Why interesting to you: ______________
+2. Dr. ______________ - Specialty: ______________ - Why interesting to you: ______________
+
+**Why THIS Program?** (60-90 seconds, written):
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+**Thoughtful Questions to Ask** (Prepare 5, use 2-3 during interview):
+1. _________________________________________________________________
+2. _________________________________________________________________
+3. _________________________________________________________________
+4. _________________________________________________________________
+5. _________________________________________________________________
+
+**Red Flags / Concerns** (Private notes - don't share in interview!):
+
+_____________________________________________________________________
+
+**Overall Fit Score**: ___/10
+
+---
+
+**Tips for Strong Program-Specific Prep**:
+- Go beyond the website: talk to current residents if possible
+- Mention specific faculty whose work aligns with your interests
+- Reference unique program features (e.g., "I'm drawn to your longitudinal ambulatory stream")
+- Ask questions that couldn't be answered by Google
+- Show you've thought about how you'd contribute to THEIR community specifically
 
 ---
 
@@ -608,14 +848,156 @@ For EACH project:
 
 ---
 
-## 🇨🇦 CANADIAN HEALTHCARE CONTEXT
+## ❓ COMMON CARMS IM INTERVIEW QUESTIONS
 
-- [ ] Can discuss 2-3 current health policy issues in Canada
-- [ ] Understand provincial differences in healthcare delivery
-- [ ] Familiar with resource stewardship / value-based care
-- [ ] Can speak to Indigenous health and reconciliation (Truth & Reconciliation)
-- [ ] Have EDI example from personal experience
-- [ ] Understand QI methodology (PDSA cycles)
+Be ready for these frequently asked questions:
+
+### Opening Questions
+- [ ] Tell me about yourself
+- [ ] Walk me through your CV
+- [ ] Why Internal Medicine?
+- [ ] Why did you choose medicine?
+
+### Program Fit
+- [ ] Why our program specifically?
+- [ ] What do you know about our program?
+- [ ] What are you looking for in a residency program?
+- [ ] How do you decide how to rank programs?
+- [ ] Why did you apply to these specific programs?
+
+### Behavioral/Situational
+- [ ] Tell me about a time you demonstrated leadership
+- [ ] Describe a challenging patient interaction
+- [ ] Tell me about a time you made a mistake
+- [ ] Describe a conflict with a colleague and how you resolved it
+- [ ] Give an example of teamwork
+- [ ] Tell me about a failure or setback
+- [ ] How do you handle stress?
+- [ ] Describe a time you advocated for a patient
+
+### Ethical/Professionalism
+- [ ] You witness a colleague being unprofessional. What do you do?
+- [ ] A patient refuses life-saving treatment. How do you approach this?
+- [ ] You made a medication error. What are your next steps?
+- [ ] How do you balance patient autonomy with beneficence?
+- [ ] Discuss a challenging ethical situation you've encountered
+
+### Academic/Research
+- [ ] Tell me about your research
+- [ ] What did you learn from your research experience?
+- [ ] Do you plan to pursue a fellowship? If so, which one?
+- [ ] What are your long-term career goals?
+- [ ] What will you contribute to academic medicine?
+
+### Canadian Context
+- [ ] What do you think are the biggest challenges in Canadian healthcare?
+- [ ] How would you address healthcare disparities?
+- [ ] What does cultural safety mean to you?
+- [ ] How do you approach resource stewardship?
+
+### Self-Reflection
+- [ ] What are your strengths?
+- [ ] What is an area you're working to improve?
+- [ ] What do you do for fun/wellness?
+- [ ] What will you bring to our program?
+- [ ] Where do you see yourself in 5-10 years?
+
+### CaRMS-Specific
+- [ ] What if you don't match?
+- [ ] Are you applying to any other specialties? (Be honest if yes)
+- [ ] How confident are you that IM is the right choice?
+- [ ] What aspects of IM are you most excited about?
+- [ ] What aspects of IM concern you?
+
+### Closing
+- [ ] What questions do you have for us?
+- [ ] Is there anything else you'd like us to know about you?
+- [ ] Is there anything we haven't asked that you think is important?
+
+**Strategy**: Have a response prepared for ALL of these. Many are variations on your core narratives.
+
+---
+
+## 🇨🇦 CANADIAN HEALTHCARE CONTEXT (ESSENTIAL FOR CARMS)
+
+CaRMS interviews heavily emphasize Canadian healthcare awareness. Be prepared to discuss:
+
+### Current Canadian Health Policy Issues
+
+Choose 2-3 to understand deeply:
+
+- [ ] **Healthcare Funding Challenges**
+  - Provincial vs federal funding models
+  - Sustainability concerns
+  - Your thoughts: ________________________________________________
+
+- [ ] **Wait Times & Access**
+  - Specialist referrals, surgical wait times
+  - Rural vs urban disparities
+  - Your thoughts: ________________________________________________
+
+- [ ] **Physician Shortage & Burnout**
+  - Recruitment and retention challenges
+  - Resident wellness initiatives
+  - Your thoughts: ________________________________________________
+
+- [ ] **Two-Tier Healthcare Debate**
+  - Public vs private care
+  - Maintaining universality
+  - Your thoughts: ________________________________________________
+
+### Indigenous Health & Cultural Safety (CRITICAL)
+
+This will likely come up. Be prepared:
+
+- [ ] **Truth & Reconciliation Commission Calls to Action** (especially #18-24 on health)
+  - Awareness of historical harms (residential schools, forced sterilization)
+  - Ongoing health inequities
+  - Commitment to cultural safety and humility
+
+- [ ] **What is Cultural Safety?**
+  - Beyond cultural competence
+  - Recognizing power imbalances
+  - Patient-defined safety
+
+- [ ] **Your Personal Commitment**:
+
+_____________________________________________________________________
+
+_____________________________________________________________________
+
+### Equity, Diversity, Inclusion (EDI)
+
+Be ready with specific examples:
+
+- [ ] **How have you contributed to EDI in medicine?**
+  - Specific actions you've taken
+  - Example: ________________________________________________
+
+- [ ] **How will you foster inclusive care as an IM resident?**
+  - Commitment to LGBTQ2S+ care, anti-racism, accessibility
+  - Example: ________________________________________________
+
+### Resource Stewardship
+
+IM residents must be conscious of healthcare costs:
+
+- [ ] **What does value-based care mean to you?**
+  - Balancing quality and cost
+  - Avoiding unnecessary investigations
+  - Your approach: ________________________________________________
+
+- [ ] **Example of resource-conscious decision-making**:
+
+_____________________________________________________________________
+
+### Quality Improvement (QI)
+
+- [ ] **Familiar with QI methodology**: PDSA cycles (Plan-Do-Study-Act)
+- [ ] **Difference between QI and Research**: QI improves local systems, research generalizable knowledge
+- [ ] **Example QI project** (if you have one):
+
+_____________________________________________________________________
 
 **Completed by**: Day 10
 
@@ -671,48 +1053,85 @@ For EACH project:
 
 By interview day, you MUST achieve:
 
-- [ ] **15 Clinical Cases**: All practiced aloud, 7+/10 confidence
-- [ ] **8 Behavioral Stories**: Polished and natural (not memorized)
-- [ ] **3-6 Mock Interviews**: With progressive improvement noted
-- [ ] **Program Knowledge**: Specific "why here" for each program
-- [ ] **Research Portfolio**: Can discuss projects clearly and concisely
-- [ ] **Ethical Framework**: Comfortable with 4 principles and Canadian context
-- [ ] **Professional Presence**: Confident, authentic, polished
-- [ ] **Logistics Ready**: Technology tested, materials organized
-- [ ] **Mental/Physical Readiness**: Rested, focused, positive mindset
+- [ ] **10+ Behavioral Narratives**: Polished, natural delivery (8+/10 confidence each)
+- [ ] **3-6 Mock Interviews**: Progressive improvement, overall score increasing
+- [ ] **Program-Specific Knowledge**: Deep research + "why here" for EACH program (8+/10 confidence)
+- [ ] **File Mastery**: Can discuss every CV line, PS theme, research project comfortably
+- [ ] **Ethical Framework**: Comfortable applying 4 principles to common scenarios
+- [ ] **Communication Skills**: Practiced SPIKES, goals of care, conflict de-escalation
+- [ ] **Canadian Context**: Understand healthcare system, Indigenous health, EDI awareness
+- [ ] **Professional Presence**: Confident, authentic, collegial, polished
+- [ ] **Logistics Ready**: Technology tested (if virtual), materials organized, attire ready
+- [ ] **Mental/Physical Readiness**: Rested, focused, positive, energized
 
 **Overall Readiness**: ___/10 (Target: 8+ by Day 14)
 
+**Self-Assessment Rubric**:
+- **8-10/10**: Highly prepared, confident, ready to compete for top programs
+- **6-7/10**: Adequately prepared, some refinement needed
+- **<6/10**: Need more work - consider additional mocks or extending prep time
+
 ---
 
-## 🚀 COMPETITIVE EDGE: STAND OUT
+## 🚀 COMPETITIVE EDGE: STAND OUT IN CARMS
 
 ### What Makes YOU Memorable?
 
+In a competitive CaRMS cycle, you need to differentiate yourself:
+
 1. **Unique angle or story**: ________________________________________
-2. **Specific value you bring**: ________________________________________
+   - What's your "hook"? (e.g., unique background, compelling journey, distinctive skill)
+
+2. **Specific value you bring to IM**: ________________________________________
+   - What will you contribute that others won't?
+
 3. **Authentic passion point**: ________________________________________
+   - What makes you genuinely excited about Internal Medicine?
 
-### Red Flags to Avoid
+### Your 60-Second Value Proposition
 
-- [ ] Never speak negatively about others (people, programs, specialties)
-- [ ] No defensive or excuse-making responses
-- [ ] No arrogance or overconfidence
-- [ ] No robotic/memorized delivery
+*Craft a compelling summary of who you are and why programs should rank you highly:*
 
-### Interviewer Perspective
+_____________________________________________________________________
 
-Programs evaluate:
-1. **Clinical Excellence**: Can you think clearly and manage patients?
-2. **Fit**: Will you thrive in our program culture?
-3. **Collegiality**: Will you be a good teammate?
-4. **Growth Potential**: Will you become an excellent internist?
+_____________________________________________________________________
 
-**Your value proposition (60 seconds)**: _______________________________________
+_____________________________________________________________________
 
-_____________________________________________________________________________
+_____________________________________________________________________
 
-_____________________________________________________________________________
+### CaRMS Ranking Strategy Awareness
+
+Be prepared to discuss (diplomatically):
+
+- [ ] **How you're thinking about ranking**: Geography, academic vs community, curriculum, fit
+- [ ] **What factors matter most to you**: Be honest but not overly specific about rank order
+- [ ] **Geographic preferences**: If you have strong ties to a city/region, it's okay to mention
+- [ ] **Academic vs Community balance**: Thoughtful reasons for each
+- [ ] **Couples match considerations** (if applicable): How you're coordinating
+
+**Things you can say**:
+- "I'm looking for a program with strong mentorship and a supportive culture"
+- "I value a balance of clinical and academic opportunities"
+- "I'm drawn to programs that emphasize resident wellness"
+
+**Things NOT to say**:
+- "I'm only considering [City X]" (unless absolutely true and you're okay with limiting options)
+- "This is my #1 choice" (to every program)
+- "I'm ranking based on where my friends are going"
+
+### Canadian IM Program Types
+
+Understanding program differences helps you articulate fit:
+
+| Program Type | Characteristics | Good Fit If You Value... |
+|--------------|----------------|--------------------------|
+| **Academic Tertiary Care** (e.g., UofT, UBC, McGill) | Large programs, subspecialty exposure, research-heavy | Academic medicine, research, fellowships, complex cases |
+| **Community-Academic** (e.g., Queen's, Western, Ottawa) | Balance of academic and community, strong teaching | Clinical excellence, teaching, community connection |
+| **Community-Based** | Bread-and-butter IM, high autonomy, strong clinical training | Hands-on training, generalist focus, independent practice |
+| **Francophone Programs** (e.g., UdeM, Laval) | French-language training | Bilingualism, Quebec practice, cultural fit |
+
+**Know where each of your programs falls and why that appeals to you.**
 
 ---
 
@@ -816,22 +1235,40 @@ _____________________________________________________________________
 
 ---
 
-## 🎯 QUICK REFERENCE: HIGH-YIELD FACTS
+## 🎯 QUICK REFERENCE: CARMS IM INTERVIEW ESSENTIALS
 
-### Clinical Scores to Know:
-- **CHA2DS2-VASc** (AFib stroke risk): CHF, HTN, Age≥75 (×2), DM, Stroke/TIA (×2), Vascular, Age 65-74, Sex (female)
-- **HAS-BLED** (bleeding risk): HTN, Abnormal renal/liver, Stroke, Bleeding, Labile INR, Elderly, Drugs/EtOH
-- **CURB-65** (pneumonia): Confusion, Urea>7, RR≥30, BP<90/60, age≥65
-- **Wells Score** (PE): Clinical DVT (3), PE most likely (3), HR>100 (1.5), immobilization/surgery (1.5), prior PE/DVT (1.5), hemoptysis (1), malignancy (1)
-- **MELD** (liver): Bilirubin, INR, Creatinine
-- **AEIOU** (dialysis indications): Acidosis, Electrolytes (hyperK), Ingestion, Overload, Uremia
+### Common CaRMS IM Interview Formats:
+- **File Review** (15-30 min): Discussion of CV, PS, experiences, research
+- **Panel Interview** (20-30 min): 2-3 interviewers, mix of behavioral and program-fit questions
+- **MMI Stations** (some programs): 8-10 stations, 5-8 min each, ethical/communication scenarios
+- **Informal Sessions**: Resident meet-and-greets, tours (still being evaluated!)
 
-### Key Management Pearls:
-- **ACS**: ASA 160mg, ticagrelor/clopidogrel, heparin, statin, beta-blocker
-- **Sepsis 1-hour bundle**: Blood cultures, lactate, antibiotics, fluids (30mL/kg)
-- **DKA**: NS first, insulin when K>3.3, add dextrose when glucose <14, monitor anion gap closure
-- **COPD**: Bronchodilators (SABA+SAMA), steroids, antibiotics if purulent
-- **Stroke**: tPA <4.5hrs, thrombectomy <6-24hrs depending on criteria
+### What IM Programs Look For:
+1. **Collegiality**: Will you be a good teammate?
+2. **Commitment to IM**: Is this genuinely your first choice?
+3. **Fit**: Do you align with our program's culture and values?
+4. **Communication**: Can you explain complex ideas clearly?
+5. **Resilience**: Can you handle the challenges of residency?
+6. **Growth Potential**: Will you become an excellent internist?
+
+### Red Flags to AVOID:
+- Speaking negatively about other specialties, programs, or people
+- Seeming unprepared (not knowing program details)
+- Arrogance or overconfidence
+- Defensive or excuse-making responses
+- Memorized/robotic answers
+- Poor eye contact or unprofessional body language
+- Asking about salary, vacation, or easy rotations
+
+### Green Flags to SHOWCASE:
+- Genuine enthusiasm for Internal Medicine
+- Specific knowledge about the program
+- Humility combined with confidence
+- Thoughtful, structured responses
+- Good listening skills
+- Asking insightful questions
+- Team player attitude
+- Growth mindset (learning from failures)
 
 ---
 
@@ -904,36 +1341,136 @@ Not everyone is the right fit for every program, and that's okay. The programs t
 
 ---
 
-## 🏁 GO TIME CHECKLIST (Day of Interview)
+## 🏁 GO TIME CHECKLIST (Day of CaRMS Interview)
 
-**Morning of:**
-- [ ] Woke up 2+ hours before interview ⏰
-- [ ] Showered, professional attire, groomed
-- [ ] Light breakfast eaten, hydrated
-- [ ] Technology tested (camera, mic, internet) OR travel plan confirmed
-- [ ] Materials organized (CV, notes, pen, water)
+### Morning of Interview (2-3 hours before)
 
-**1 Hour Before:**
-- [ ] Reviewed "why this program" and program-specific notes
-- [ ] Reviewed personal statement key themes
-- [ ] Deep breathing / centering exercise
+- [ ] Woke up with plenty of time (no rushing) ⏰
+- [ ] Showered, professional attire (conservative suit), groomed
+- [ ] Light breakfast eaten, well hydrated
+- [ ] Reviewed "why THIS program" notes (5 min)
+- [ ] Reviewed personal statement key themes (5 min)
+- [ ] Brief glance at CV (know your timeline cold)
 
-**15 Minutes Before:**
-- [ ] Logged in / arrived at location
-- [ ] Quiet space, minimal distractions
-- [ ] Positive mindset, smile ready
-- [ ] "I am prepared. I am confident. I will be authentically me."
+### Technology Check (Virtual Interviews) - 30 min before
 
-**POST-INTERVIEW:**
-- [ ] Decompressed and reflected
-- [ ] Documented impressions while fresh
-- [ ] Thank-you email sent (optional, within 24h)
+- [ ] Logged into platform to test
+- [ ] Camera positioned at eye level, good lighting
+- [ ] Microphone working, volume tested
+- [ ] Background professional and uncluttered
+- [ ] Backup device nearby and charged
+- [ ] Phone on silent (notifications OFF)
+- [ ] Program coordinator contact info handy (in case of tech issues)
+
+### In-Person Interviews - 30 min before
+
+- [ ] Arrived at location (15 min early, not more)
+- [ ] Located interview room
+- [ ] Bathroom check (appearance, composure)
+- [ ] Turned phone off
+- [ ] Materials organized (notepad, pen, water)
+
+### Final 15 Minutes Before Interview
+
+- [ ] Deep breathing exercise (4 counts in, 6 counts out, repeat 5x)
+- [ ] Positive affirmations:
+  - "I am prepared"
+  - "I belong here"
+  - "I will be authentic and let my passion shine"
+- [ ] Put on a genuine smile (it changes your energy)
+- [ ] Remember: They want you to succeed. This is a conversation, not an interrogation.
+
+### During the Interview
+
+- [ ] **Start strong**: Confident greeting, smile, eye contact
+- [ ] **Listen carefully**: Don't interrupt, take a breath before answering
+- [ ] **Structure answers**: STAR format for behavioral questions
+- [ ] **Be authentic**: Don't try to be someone you're not
+- [ ] **Take brief notes**: Jot down names, key points
+- [ ] **Ask thoughtful questions**: Shows genuine interest
+- [ ] **End strong**: Thank interviewers, express enthusiasm
+
+### Immediately Post-Interview (Within 1-2 hours)
+
+- [ ] **Decompress**: Walk, call supportive friend, deep breaths
+- [ ] **Document impressions while fresh**:
+  - How did it go overall? ___/10
+  - What went well:
+  - What could have gone better:
+  - Impression of program:
+  - Ranking considerations:
+
+- [ ] **Reflect on fit**: Did you feel comfortable? Can you see yourself there?
+
+### Within 24 Hours
+
+- [ ] **Thank-you email** (optional but recommended for CaRMS):
+  - Keep it brief (3-4 sentences)
+  - Express gratitude for their time
+  - Reiterate your interest
+  - Personalize with something specific from the interview
+  - Example template below
 
 ---
 
-**NOW GO CRUSH THOSE INTERVIEWS!** 🎯🔥
+### Thank-You Email Template
 
-You've prepared. You're ready. Show them why you're going to be an outstanding Internal Medicine resident.
+**Subject**: Thank you - [Your Name] CaRMS Interview
+
+Dear Dr. [Interviewer Name],
+
+Thank you for taking the time to speak with me today about [Program Name]'s Internal Medicine residency program. I enjoyed learning more about [specific aspect discussed, e.g., "your longitudinal ambulatory care model" or "the research opportunities in [subspecialty]"].
+
+Our conversation reinforced my strong interest in your program, and I was particularly impressed by [something specific that resonated].
+
+Thank you again for your time and consideration. I look forward to staying in touch.
+
+Sincerely,  
+[Your Name]
+
+---
+
+## 🎯 FINAL REMINDERS FOR CARMS SUCCESS
+
+### What Interviewers Are Really Asking:
+
+| They ask... | They're really asking... |
+|-------------|-------------------------|
+| "Tell me about yourself" | Are you self-aware? Can you communicate clearly? |
+| "Why Internal Medicine?" | Is this genuinely your passion or a backup plan? |
+| "Why our program?" | Did you do your homework? Will you rank us? |
+| "Tell me about a failure" | Do you have a growth mindset? Can you reflect? |
+| "Any questions for us?" | Are you genuinely interested or just going through motions? |
+
+### The Secret Sauce
+
+**Programs rank you highly when**:
+1. You demonstrate genuine passion for IM (not just prestige-seeking)
+2. You show you'd be a great colleague (kind, collaborative, professional)
+3. You've done your homework on their program specifically
+4. You communicate clearly and authentically
+5. You show resilience and self-awareness
+6. You'd contribute meaningfully to their community
+
+**It's not about being perfect. It's about being genuinely YOU, well-prepared, and a great fit.**
+
+---
+
+## 🌟 YOU'VE GOT THIS!
+
+You've put in the work. You've practiced. You've reflected. You've prepared.
+
+Now trust yourself. Be authentic. Let your passion for Internal Medicine shine through.
+
+**Remember**: The right program will see your value and rank you highly. Focus on being the best version of yourself, not on trying to be what you think they want.
+
+**You are ready. You belong here. Go show them what an excellent Internal Medicine resident looks like.**
+
+---
+
+**"Success is where preparation and opportunity meet."** – Bobby Unser
+
+**Now go crush those CaRMS interviews!** 🎯🔥💪
 
 **Good luck!** 🍀
 
